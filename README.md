@@ -97,6 +97,7 @@ You’ll see this pattern in problems like:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@ You’ll see this pattern in problems like:
 | [0001-two-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
@@ -239,6 +241,7 @@ You’ll see this pattern in problems like:
 | [0056-merge-intervals](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
@@ -253,6 +256,7 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -273,6 +277,7 @@ You’ll see this pattern in problems like:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
@@ -308,4 +313,8 @@ You’ll see this pattern in problems like:
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
