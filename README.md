@@ -111,6 +111,7 @@ You’ll see this pattern in problems like:
 | [0493-reverse-pairs](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +129,7 @@ You’ll see this pattern in problems like:
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0940-fruit-into-baskets) |
