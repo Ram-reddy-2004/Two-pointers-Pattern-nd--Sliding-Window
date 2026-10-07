@@ -87,6 +87,7 @@ You’ll see this pattern in problems like:
 | [0015-3sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0053-maximum-subarray) |
@@ -154,6 +155,7 @@ You’ll see this pattern in problems like:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ram-reddy-2004/Two-pointers-Pattern/tree/master/0268-missing-number) |
